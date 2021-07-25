@@ -1,2 +1,2 @@
-# wavelet-sandbox
-sandbox for building up tools using PyCWT
+# tutorial-sandbox
+a sandy, sandpit github sandbox repo for self-help tutorials
